@@ -24,7 +24,7 @@ This projects introduces a very well known process of testing hypothesis test i.
 
 
 # Acknowledgements
-I find a great opprtunity through DAND program of Udacity. I could utilized the data analysis and hypothsis test skills learned from classroom lessons and also apply in this particular project. Other references are mentioned in the notebook itself.Last but not the least, I am thankful to the mentors as well for occassional support of my queries in regard to this project.
+I find a great opprtunity through DAND program of Udacity. I could utilized my data analysis and hypothesis test skills learned from classroom lessons and also apply in this particular project. Other references are mentioned in the notebook itself.Last but not the least, I am thankful to the mentors as well for occassional support of my queries in regard to this project.
 
 
 
