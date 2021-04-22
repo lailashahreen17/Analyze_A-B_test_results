@@ -1,5 +1,5 @@
 # Analyze_A-B_test_results
-This projects introduces a very well known process of testing hypothesis test i.e  A/B test. For this project, I have be worked to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. My goal was to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+This projects introduces a very well known process of testing hypothesis test i.e  A/B test. For this project, I worked to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. My goal was to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 # Software used
 * Pandas
