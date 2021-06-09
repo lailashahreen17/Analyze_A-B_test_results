@@ -20,7 +20,7 @@ This projects introduces a very well known process of testing hypothesis test i.
 
 * We also do not have any revenue data(expense on implementing new page vs. revenue on increasing traffic) which could be ultimate importatnt factor behind the changes. So at this point, we have to maintain old page based on current data analysis.
 
-* The sample is size is large enough for both the pages, so we are good on that part. For future analysis, we should go for individual statistics to attain better accuracy of our findings( may be applying the machine learning techniques can assist).**
+* The sample size is large enough for both the pages, so we are good on that part. For future analysis, we should go for individual statistics to attain better accuracy of our findings( may be applying the machine learning techniques can assist).**
 
 
 # Acknowledgements
